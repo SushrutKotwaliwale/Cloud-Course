@@ -12,5 +12,5 @@ This repository is designed to store all my files and documentation for my Cloud
 ## Colab Example
 This is the [notebook](https://github.com/SushrutKotwaliwale/Cloud-Course/blob/967f916de6a583c25a79d8e2e903f5d2c700bd0e/Cloud_Computing_Course.ipynb)
 
-Image
+### Image
 <img width="352" height="281" alt="image" src="https://github.com/user-attachments/assets/2d9fb255-89ec-4090-90c5-a8993e83ea5f" />
